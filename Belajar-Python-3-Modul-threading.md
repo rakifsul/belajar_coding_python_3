@@ -25,15 +25,10 @@ Penggunaan thread dalam Python memungkinkan program untuk melakukan tugas-tugas 
 Beberapa fitur utama dari modul threading di Python 3 meliputi:
 
 -   Pembuatan Thread: Modul threading memungkinkan Anda membuat thread baru dengan membuat objek Thread dan menentukan fungsi yang akan dieksekusi oleh thread tersebut.
-
 -   Synchronizing Threads: Modul ini menyediakan berbagai mekanisme sinkronisasi seperti Locks, Semaphores, dan Conditions untuk menghindari race conditions ketika beberapa thread mengakses data bersama.
-
 -   Daemon Threads: Anda dapat membuat thread sebagai "daemon" yang akan berhenti secara otomatis ketika program utama berhenti.
-
 -   Joining Threads: Anda dapat menggunakan metode join() untuk menunggu sampai sebuah thread selesai dieksekusi sebelum melanjutkan eksekusi program utama.
-
 -   Timer Threads: Modul ini juga menyediakan kelas Timer yang memungkinkan Anda menjadwalkan eksekusi suatu fungsi dalam waktu tertentu.
-
 -   Thread Pooling: Anda dapat menggunakan kelas ThreadPoolExecutor untuk membuat pool thread yang dapat digunakan untuk mengeksekusi banyak tugas secara paralel.
 
 ## Tujuan
@@ -54,7 +49,7 @@ Prasyarat dari tutorial ini adalah:
 
 Langkah pertama untuk membuat project ini adalah dengan membuat project baru bernama "contoh_python3_threading".
 
-Anda bisa menggunakan project yang dibuat di tutorial ini.
+Anda bisa menggunakan project yang dibuat di "[Belajar Python 3 Cara Membuat Project](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Cara-Membuat-Project.md)".
 
 Sekarang, seharusnya di folder project sudah ada file main.py.
 

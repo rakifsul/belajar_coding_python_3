@@ -57,7 +57,7 @@ Prasyarat dari tutorial ini adalah:
 
 Langkah pertama untuk membuat project ini adalah dengan membuat project baru bernama "contoh_python3_urllib".
 
-Anda bisa menggunakan project yang dibuat di tutorial ini.
+Anda bisa menggunakan project yang dibuat di "[Belajar Python 3 Cara Membuat Project](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Cara-Membuat-Project.md)".
 
 Sekarang, seharusnya di folder project sudah ada file main.py.
 
