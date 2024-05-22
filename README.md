@@ -1,6 +1,6 @@
 # Belajar Coding Python 3
 
-Ini adalah kumpulan contoh coding Python 3.
+Ini adalah kumpulan artikel coding Python 3.
 
 Dalam sudut pandang saya, Python 3 merupakan alternatif dari Electron JS jika saya ingin membangun aplikasi dekstop yang kecil.
 
