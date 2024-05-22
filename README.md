@@ -2,7 +2,23 @@
 
 Ini adalah kumpulan contoh coding Python 3.
 
-Saya sangat berharap bahwa Anda tidak hanya membaca kodenya, tapi juga membaca artikelnya.
+Dalam sudut pandang saya, Python 3 merupakan alternatif dari Electron JS jika saya ingin membangun aplikasi dekstop yang kecil.
+
+Sebenarnya, Python 3 bisa digunakan untuk keperluan lain, seperti membangun aplikasi web.
+
+Tapi, dalam konteks artikel ini, yang dibahas hanya aplikasi desktop saja, entah itu GUI atau command line.
+
+Saya memutuskan untuk melakukan itu karena di Python 3 ada library yang bernama wxPython.
+
+wxPython adalah sebuah library GUI untuk aplikasi Python desktop.
+
+Library tersebut bersifat open source dan memiliki fitur yang sangat lengkap.
+
+Tapi, itu bukan berarti bahwa artikel ini hanya membahas wxPython saja.
+
+Bahkan, di update terbaru artikel ini, belum ada artikel tentang wxPython.
+
+Apalagi, library GUI untuk Python 3 tidak hanya wxPython, masih ada PyQt, Tkinter, dan lain-lain.
 
 Berikut ini adalah daftar artikelnya:
 
@@ -18,5 +34,7 @@ Berikut ini adalah daftar artikelnya:
 -   [Belajar Python 3 Modul threading](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Modul-threading.md)
 -   [Belajar Python 3 Modul sys](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Modul-sys.md)
 -   [Belajar Python 3 Penanganan File](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Penanganan-File.md)
+
+Akhir kata, saya meminta kepada Anda untuk mengunjungi link saya ( https://taplink.cc/rakifsul ), mengeksplorasinya, dan lebih baik lagi jika Anda mentraktir saya melalui link tersebut.
 
 Selamat menikmati.
