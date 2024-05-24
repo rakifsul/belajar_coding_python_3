@@ -35,6 +35,10 @@ Berikut ini adalah daftar artikelnya:
 -   [Belajar Python 3 Modul sys](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Modul-sys.md)
 -   [Belajar Python 3 Penanganan File](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Penanganan-File.md)
 
-Akhir kata, saya meminta kepada Anda untuk mengunjungi link saya ( https://taplink.cc/rakifsul ), mengeksplorasinya, dan lebih baik lagi jika Anda mentraktir saya melalui link tersebut.
+Artikel ini gratis.
+
+Jika Anda ingin traktir saya, kunjungi link saya ( https://taplink.cc/rakifsul ).
+
+Di sana ada link untuk traktirnya dan link lainnya.
 
 Selamat menikmati.
