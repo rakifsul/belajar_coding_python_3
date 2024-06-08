@@ -1,5 +1,7 @@
 # Belajar Coding Python 3
 
+## Pendahuluan
+
 Ini adalah kumpulan artikel coding Python 3.
 
 Dalam sudut pandang saya, Python 3 merupakan alternatif dari Electron JS jika saya ingin membangun aplikasi dekstop yang kecil.
@@ -20,6 +22,8 @@ Bahkan, di update terbaru artikel ini, belum ada artikel tentang wxPython.
 
 Apalagi, library GUI untuk Python 3 tidak hanya wxPython, masih ada PyQt, Tkinter, dan lain-lain.
 
+## Isi artikel
+
 Berikut ini adalah daftar artikelnya:
 
 -   [Belajar Python 3 Cara Membuat Project](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Cara-Membuat-Project.md)
@@ -35,12 +39,16 @@ Berikut ini adalah daftar artikelnya:
 -   [Belajar Python 3 Modul sys](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Modul-sys.md)
 -   [Belajar Python 3 Penanganan File](https://github.com/rakifsul/belajar_coding_python_3/blob/main/Belajar-Python-3-Penanganan-File.md)
 
-Artikel ini gratis.
+## Link Penting
 
-Jika Anda ingin mentraktir saya, kunjungi link saya:
+Kunjungi juga link saya.
 
-https://taplink.cc/rakifsul
+Link untuk traktir atau beli produk saya:
 
-Di sana ada link untuk mentraktir saya dan link lainnya.
+- https://karyakarsa.com/rakifsul
+
+Link selengkapnya:
+
+- https://taplink.cc/rakifsul
 
 Selamat menikmati.
